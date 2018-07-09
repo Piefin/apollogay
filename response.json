@@ -1,1 +1,96 @@
-
+{
+    "Username": "Squirrel",
+    "Email": "hacker@exploits.com",
+    "HardwareID": "Wiewiórka#4440",
+    "IPAddress": "127.0.0.1",
+    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko\/20100101 Firefox\/61.0",
+    "Licences": {
+        "Web": {
+            "Valid": true,
+            "Expires": null
+        },
+        "Lite": {
+            "Valid": true,
+            "Expires": null
+        },
+        "Pro": {
+            "Valid": true,
+            "Expires": null
+        }
+    },
+    "Settings": {
+        "Toggled": false,
+        "BlockHit": true,
+        "Constant": false,
+        "CPS": {
+            "Min": 85,
+            "Max": 120
+        },
+        "KeyInts": {
+            "A": 0,
+            "B": 0,
+            "C": 0,
+            "D": 0,
+            "E": 0,
+            "F": 0,
+            "G": 0
+        },
+        "Specific": {
+            "Toggled": false,
+            "Window": ""
+        },
+        "ClickSounds": {
+            "Toggled": false,
+            "Sound": ""
+        },
+        "Jitter": {
+            "Toggled": false,
+            "Value": 35
+        },
+        "Tap": {
+            "Toggled": false,
+            "Delay": 750,
+            "Keys": {
+                "W": true,
+                "A": false,
+                "S": false,
+                "D": false
+            }
+        },
+        "Auto": {
+            "Pearl": false,
+            "Eat": false,
+            "Sprint": false,
+            "Pot": false,
+            "Rod": false
+        },
+        "VoiceControls": {
+            "Tab": false,
+            "Explode": false,
+            "Toggle": false
+        },
+        "Destruct": {
+            "Exit": true,
+            "Memory": true,
+            "Prefetch": true,
+            "Files": true
+        },
+        "Slot": {
+            "Sword": 1,
+            "Rod": 3,
+            "Pearl": 9,
+            "Pot": {
+                "A": false,
+                "B": false,
+                "C": true,
+                "D": true,
+                "E": true,
+                "F": true,
+                "G": true,
+                "H": true,
+                "I": false
+            }
+        }
+    },
+    "Response": "Welcome to cracked Apollo by PuffingIn3D."
+}
