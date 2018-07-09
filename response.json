@@ -1,21 +1,21 @@
 {
     "Username": "Squirrel",
     "Email": "hacker@exploits.com",
-    "HardwareID": "Wiewiórka#4440",
+    "HardwareID": "HWID",
     "IPAddress": "127.0.0.1",
-    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko\/20100101 Firefox\/61.0",
+    "User-Agent": "ApolloClicker\/3.3 (Windows 10 Home; x64)",
     "Licences": {
         "Web": {
-            "Valid": true,
+            "Valid": false,
             "Expires": null
         },
         "Lite": {
             "Valid": true,
-            "Expires": null
+            "Expires": "Never"
         },
         "Pro": {
             "Valid": true,
-            "Expires": null
+            "Expires": "Never"
         }
     },
     "Settings": {
@@ -92,5 +92,5 @@
             }
         }
     },
-    "Response": "Welcome to cracked Apollo by PuffingIn3D."
+    "Response": "The Hardware ID (1A034D0D) was found in our records and is associated with the IP Address (184.207.162.155)."
 }
